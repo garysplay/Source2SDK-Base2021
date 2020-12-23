@@ -81,7 +81,7 @@
 		"engine_no_focus_sleep"		"20"
 		"ent_pivot_size"		"20"
 		"ent_text_flags_active"		"-1"
-		"fov_desired"		"90"
+		"fov_desired"		"75.000000"
 		"fps_max"		"9000"
 		"func_break_max_pieces"		"15"
 		"g_antlion_cascade_push"		"1"
